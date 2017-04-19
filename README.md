@@ -13,5 +13,5 @@ export elevar=$((2**4)) | echo $elevar
 
 -Este es el ejercicio numero 3
 ```
-daniel
+ps -A | tail -n +2 | wc -l
 ```
