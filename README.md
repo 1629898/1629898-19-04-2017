@@ -7,4 +7,11 @@ ps -A | wc -l
 
 - Este es el ejercicio numero 2
 ```
+echo $((2**4))
+export elevar=$((2**4)) | echo $elevar
+```
 
+-Este es el ejercicio numero 3
+```
+
+```
